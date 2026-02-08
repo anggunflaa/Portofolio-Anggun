@@ -57,6 +57,11 @@ export default function Certificates() {
       src: '/certificates/5.jpg',
       title: 'Participation',
     },
+            {
+      id: 6,
+      src: '/certificates/6.jpg',
+      title: 'Problem solving',
+    },
   ];
 
   return (
