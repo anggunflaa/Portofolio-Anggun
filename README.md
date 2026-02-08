@@ -1,36 +1,72 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-## Getting Started
+# 🌐 Portofolio Anggun
 
-First, run the development server:
+Halo 👋  
+Saya **Anggun**, mahasiswa IT yang tertarik pada **pengembangan web, mobile app, UI/UX, dan AI**.  
+Portofolio ini dibuat untuk menampilkan proyek, skill, serta pengalaman akademik dan organisasi yang sedang saya jalani.
 
+Website ini dikembangkan menggunakan **Next.js** dengan desain modern, responsif, dan fokus pada personal branding sebagai developer.
+
+---
+
+## 🚀 Demo
+🔗 **Live Website**: *(akan diisi setelah deploy ke Vercel)*  
+🔗 **Repository**: https://github.com/anggunflaa/Portofolio-Anggun
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Frontend
+- **Next.js**
+- **React**
+- **HTML5**
+- **CSS3**
+- **JavaScript**
+
+### 🎨 UI / UX
+- **Figma**
+- Responsive Web Design
+- Animation (Framer Motion)
+
+### ⚙️ Tools & Platform
+- **Git & GitHub**
+- **Node.js**
+- **Vercel** (Deployment)
+- **VS Code**
+
+---
+
+## ✨ Fitur Utama
+- Hero section dengan animasi
+- About me & personal profile
+- Skills & tech stack
+- Education & organization experience
+- Projects showcase
+- Certificates & participation gallery
+- Responsive (mobile, tablet, desktop)
+
+---
+
+## 📂 Struktur Project
 ```bash
+portfolio-next/
+├─ app/
+│  ├─ page.tsx
+│  ├─ layout.tsx
+│  └─ globals.css
+├─ components/
+├─ public/
+│  ├─ projects/
+│  ├─ certificates/
+│  ├─ icons/
+│  └─ images
+├─ package.json
+└─ README.md
+
+# install dependencies
+npm install
+
+# jalankan server
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
